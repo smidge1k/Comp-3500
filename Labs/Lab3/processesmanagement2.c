@@ -393,9 +393,6 @@ return 0;
 }
 
 
-
-
-
 /***********************************************************************\
 * Input : None                                                          *
 * Output: TRUE if Intialization successful                              *
